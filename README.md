@@ -5,6 +5,6 @@ test
   <title>PHP Test</title>
  </head>
  <body>
- <p>Hello World, I'm just checking you out.</p>'> 
+ <p>Hello World, I'm just checking you out.</p>
  </body>
 </html>
